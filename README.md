@@ -14,4 +14,4 @@
 
 适用于新需求开发时参考使用，帮助提升功能开发的规范性和完整性。
 
-详细内容请参考 [NOTEPADS/Feature Development Guidelines]
+详细内容请参考 [NOTEPADS/Feature-Development-Guidelines](NOTEPADS/Feature-Development-Guidelines)
